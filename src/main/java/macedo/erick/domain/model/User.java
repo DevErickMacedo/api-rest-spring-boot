@@ -1,4 +1,4 @@
-package macedo.erick.domain;
+package macedo.erick.domain.model;
 
 import jakarta.persistence.*;
 
