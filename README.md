@@ -1,6 +1,7 @@
 # Projeto RESTful API Spring Boot
 Repositório criado para armazenar um projeto Java com Spring Boot.
 
+## Diagrama de Classes
 ```mermaid
 classDiagram
   class User {
